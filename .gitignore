@@ -1,0 +1,5 @@
+api-doc
+*.o
+*.a
+xml
+nbproject
